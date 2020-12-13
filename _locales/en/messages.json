@@ -1,0 +1,194 @@
+{
+    "link_href_1": {
+        "message": "https://proxys.io/en?utm_source=extension&utm_campaign=proxycontrol-en"
+    },
+    "link_href_2": {
+        "message": "https://proxys.io/ru/blog/nastroyka-proksi/proxycontrol-brauzernoe-rasshirenie-ot-proksi-servisa?utm_source=extension&utm_campaign=proxycontrol-en"
+    },
+    "link_href_3": {
+        "message": "https://proxys.io/en/my/key?utm_source=extension&utm_campaign=proxycontrol-en"
+    },
+    "notification_1": {
+        "message": "Switch to new proxy"
+    },
+    "notification_2": {
+        "message": "Proxy is off"
+    },
+    "notification_3": {
+        "message": "New whitelist applied"
+    },
+    "notification_hit": {
+        "message": "Don't forget to clear your cache and cookies!"
+    },
+    "popup_button_text_1": {
+        "message": "ON PROXY"
+    },
+    "popup_button_text_2": {
+        "message": "OFF PROXY"
+    },
+    "popup_button_text_3": {
+        "message": "GO TO SETTINGS"
+    },
+    "popup_option_text_1": {
+        "message": "Select proxy"
+    },
+    "header_text_1": {
+        "message": "Main page"
+    },
+    "header_text_2": {
+        "message": "List of proxies"
+    },
+    "header_text_3": {
+        "message": "Settings"
+    },
+    "header_text_4": {
+        "message": "Instruction"
+    },
+    "header_text_5": {
+        "message": "Buy proxy"
+    },
+    "main_header_1": {
+        "message": "Current proxy"
+    },
+    "main_header_2": {
+        "message": "Add new proxy"
+    },
+    "main_header_3": {
+        "message": "Add new proxy (fast option)"
+    },
+    "main_header_4": {
+        "message": "Add new proxy (from API)"
+    },
+    "main_table_header_1": {
+        "message": "IP-address"
+    },
+    "main_table_header_2": {
+        "message": "Port"
+    },
+    "main_table_header_3": {
+        "message": "Login"
+    },
+    "main_table_header_4": {
+        "message": "Password"
+    },
+    "main_button_1": {
+        "message": "Add new proxy"
+    },
+    "main_button_2": {
+        "message": "Get proxy"
+    },
+    "main_button_3": {
+        "message": "Add selected proxy"
+    },
+    "main_button_4": {
+        "message": "Add all proxies"
+    },
+    "main_placeholder_1": {
+        "message": "IP-address of proxy"
+    },
+    "main_placeholder_2": {
+        "message": "Port of proxy"
+    },
+    "main_placeholder_3": {
+        "message": "Login of proxy"
+    },
+    "main_placeholder_4": {
+        "message": "Password of proxy"
+    },
+    "main_placeholder_5": {
+        "message": "API-key"
+    },
+    "main_placeholder_6": {
+        "message": "You can enter IP manually or select from the selector"
+    },
+    "main_placeholder_7": {
+        "message": "ip:port or ip:port@login:password"
+    },
+    "main_small_1": {
+        "message": "Auto-format detection"
+    },
+    "main_icon_title_1": {
+        "message": "Edit proxy"
+    },
+    "main_option_text_1": {
+        "message": "Select proxy"
+    },
+    "main_optional_text_1": {
+        "message": "Getting proxy"
+    },
+    "main_optional_text_2": {
+        "message": "Got proxy"
+    },
+    "main_notification_1": {
+        "message": "Needing to solve captcha or disable proxy or VPN"
+    },
+    "main_notification_2": {
+        "message": "Incorrect apiKey"
+    },
+    "main_notification_3": {
+        "message": "An error occurred - needing to disable proxy or VPN"
+    },
+    "main_notification_4": {
+        "message": "Incorrect data of proxy"
+    },
+    "list_h_1": {
+        "message": "List of proxies"
+    },
+    "list_button_text_1": {
+        "message": "Delete same proxies"
+    },
+    "list_button_text_2": {
+        "message": "Delete all proxies"
+    },
+    "list_table_header_1": {
+        "message": "IP-address"
+    },
+    "list_table_header_2": {
+        "message": "Port"
+    },
+    "list_table_header_3": {
+        "message": "Login"
+    },
+    "list_table_header_4": {
+        "message": "Password"
+    },
+    "list_icon_title_1": {
+        "message": "Delete proxy"
+    },
+    "list_icon_title_2": {
+        "message": "Select proxy"
+    },
+    "list_hit_1": {
+        "message": "Current proxy"
+    },
+    "list_notification_1": {
+        "message": "Delete selected proxy?"
+    },
+    "list_notification_2": {
+        "message": "Switch to selected proxy?"
+    },
+    "list_notification_3": {
+        "message": "Delete same proxies"
+    },
+    "list_notification_4": {
+        "message": "No same proxies :)"
+    },
+    "additional_h_1": {
+        "message": "Whitelist of sites"
+    },
+    "additional_h_2": {
+        "message": "Hotkeys"
+    },
+    "additional_button_text_1": {
+        "message": "Save whitelist"
+    },
+    "additional_text_1": {
+        "message": "Open settings"
+    },
+    "additional_text_2": {
+        "message": "On proxy"
+    },
+    "additional_text_3": {
+        "message": "Off proxy"
+    }
+}

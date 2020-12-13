@@ -1,0 +1,90 @@
+body {
+  background: rgba(0, 0, 0, 1) url(hash.svg);
+  color: white;
+  font-size: 22px;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("../fonts/Roboto Slab.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.logo {
+  height: 50px;
+}
+
+nav {
+  border-bottom: 2px solid white;
+  margin-bottom: 10px;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  border-top: 2px solid black;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.body * {
+  margin: 15px;
+}
+
+.form-control {
+  width: 250px;
+}
+
+#proxyDataEntry {
+    width: 450px;
+}
+
+table * {
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  color: #d2cb79;
+}
+
+a>i {
+  color: #88c136;
+}
+
+#api * {
+  width: 500px;
+  margin-left: 0px;
+}
+
+#api h3 {
+  width: auto;
+}
+
+a {
+  color: white;
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+.disabled {
+  color: #d2cb79 !important;
+}
+
+a:hover {
+  color: #d2cb79 !important;
+}
+
+.icon {
+  width: 25px;
+  margin: 0px;
+}
+
+tr {
+  height: 50px;
+}

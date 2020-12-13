@@ -1,0 +1,65 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script type="text/javascript" src="src/jquery-3.5.1.min.js"></script>
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Дополнительные настройки</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-ligh">
+        <div class="container">
+            <div><a class="navbar-brand text-dark"><img class="logo" src="icons/on.png"></a></div>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/options.html" data-resource="header_text_1">Главная</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/list.html" data-resource="header_text_2">Список прокси</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#" data-resource="header_text_3">Настройки</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://proxys.io/ru/blog/nastroyka-proksi/proxycontrol-brauzernoe-rasshirenie-ot-proksi-servisa" target="_blank" data-resource="header_text_4" data-href="link_href_2">Инструкция</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://proxys.io/?utm_source=extension&utm_campaign=proxycontrol" target="_blank" data-resource="header_text_5" data-href="link_href_1">Купить прокси</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body">
+
+        <h3 data-resource="additional_h_1">Белый список сайтов</h3>
+        <textarea id="whiteListEntry" class="form-control" rows="3"></textarea>
+        <button class="btn btn-success" id="saveWhileListButton" data-resource="additional_button_text_1">Сохранить список</button>
+
+        <h3 data-resource="additional_h_2">Горячие клавиши</h3>
+
+        <span data-resource="additional_text_1">Открыть настройки</span>
+        <input type="text" class="form-control" placeholder="Ctrl + Shift + 5" style="display: inline;" disabled />
+
+        <br />
+
+        <span data-resource="additional_text_2">Включить прокси</span>
+        <input type="text" class="form-control" placeholder="Ctrl + Shift + 1" style="display: inline;" disabled />
+
+        <br />
+
+        <span data-resource="additional_text_3">Отключить прокси</span>
+        <input type="text" class="form-control" placeholder="Ctrl + Shift + 0" style="display: inline;" disabled />
+
+    </div>
+    <script src="scripts/additional.js"></script>
+    <script src="scripts/functions.js"></script>
+</body>
+
+</html>

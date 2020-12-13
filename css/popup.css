@@ -1,0 +1,28 @@
+body {
+  background: rgba(0, 0, 0, 1) url(hash.svg);
+  color: white;
+  width: 360px;
+  height: 180px;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("../fonts/Roboto Slab.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.form-control {
+  width: 250px;
+}
+
+button {
+  width: 250px;
+  font-size: 14px !important;
+}
+
+.center {
+  display: block;
+  margin: 25px auto;
+}

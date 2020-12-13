@@ -1,0 +1,55 @@
+ {
+   "name": "ProxyControl",
+   "version": "1.4",
+   "default_locale": "en",
+   "description": "Manage setting of connect of proxy in your browser so quickly and so easily as you want.",
+   "permissions": [
+     "proxy",
+     "storage",
+     "unlimitedStorage",
+     "<all_urls>",
+     "webRequest",
+     "webRequestBlocking"
+   ],
+   "options_page": "options.html",
+   "background": {
+     "scripts": [
+       "scripts/background.js",
+       "scripts/functions.js"
+     ]
+   },
+   "commands": {
+     "options": {
+       "suggested_key": {
+         "default": "Ctrl+Shift+5"
+       },
+       "global": true,
+       "description": "Open option page"
+     },
+     "onProxy": {
+       "suggested_key": {
+         "default": "Ctrl+Shift+1"
+       },
+       "global": true,
+       "description": "Enable proxy"
+     },
+     "offProxy": {
+       "suggested_key": {
+         "default": "Ctrl+Shift+0"
+       },
+       "global": true,
+       "description": "Disable proxy"
+     }
+   },
+   "browser_action": {
+     "default_title": "Настройка прокси",
+     "default_icon": "icons/off.png",
+     "default_popup": "popup.html"
+   },
+   "icons": {
+       "16": "icons/16x16.png",
+       "48": "icons/48x48.png",
+       "128": "icons/128x128.png"
+   },
+   "manifest_version": 2
+ }
