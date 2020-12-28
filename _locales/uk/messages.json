@@ -1,0 +1,194 @@
+{
+    "link_href_1": {
+        "message": "https://proxys.io/ru?utm_source=extension&utm_campaign=proxycontrol-ru"
+    },
+    "link_href_2": {
+        "message": "https://proxys.io/ru/blog/nastroyka-proksi/proxycontrol-brauzernoe-rasshirenie-ot-proksi-servisa?utm_source=extension&utm_campaign=proxycontrol-ru"
+    },
+    "link_href_3": {
+        "message": "https://proxys.io/ru/my/key?utm_source=extension&utm_campaign=proxycontrol-ru"
+    },
+    "notification_1": {
+        "message": "Подключен новый прокси"
+    },
+    "notification_2": {
+        "message": "Прокси отключен"
+    },
+    "notification_3": {
+        "message": "Новый белый список сайтов применен"
+    },
+    "notification_hit": {
+        "message": "Не забудьте очистить кеш и куки!"
+    },
+    "popup_button_text_1": {
+        "message": "ВКЛЮЧИТЬ ПРОКСИ"
+    },
+    "popup_button_text_2": {
+        "message": "ОТКЛЮЧИТЬ ПРОКСИ"
+    },
+    "popup_button_text_3": {
+        "message": "ПЕРЕЙТИ К НАСТРОЙКАМ"
+    },
+    "popup_option_text_1": {
+        "message": "Выбрать прокси"
+    },
+    "header_text_1": {
+        "message": "Главная"
+    },
+    "header_text_2": {
+        "message": "Список прокси"
+    },
+    "header_text_3": {
+        "message": "Настройки"
+    },
+    "header_text_4": {
+        "message": "Инструкция"
+    },
+    "header_text_5": {
+        "message": "Купить прокси"
+    },
+    "main_header_1": {
+        "message": "Текущий прокси"
+    },
+    "main_header_2": {
+        "message": "Добавить новый прокси"
+    },
+    "main_header_3": {
+        "message": "Добавить новый прокси (быстро)"
+    },
+    "main_header_4": {
+        "message": "Добавить новый прокси (по API-ключу)"
+    },
+    "main_table_header_1": {
+        "message": "IP-адрес"
+    },
+    "main_table_header_2": {
+        "message": "Порт"
+    },
+    "main_table_header_3": {
+        "message": "Логин"
+    },
+    "main_table_header_4": {
+        "message": "Пароль"
+    },
+    "main_button_1": {
+        "message": "Добавить новый прокси"
+    },
+    "main_button_2": {
+        "message": "Получить прокси"
+    },
+    "main_button_3": {
+        "message": "Добавить выбранный прокси"
+    },
+    "main_button_4": {
+        "message": "Добавить все прокси из списка"
+    },
+    "main_placeholder_1": {
+        "message": "IP-адрес прокси"
+    },
+    "main_placeholder_2": {
+        "message": "Порт прокси"
+    },
+    "main_placeholder_3": {
+        "message": "Логин от прокси"
+    },
+    "main_placeholder_4": {
+        "message": "Пароль от прокси"
+    },
+    "main_placeholder_5": {
+        "message": "Ключ API"
+    },
+    "main_placeholder_6": {
+        "message": "Можно ввести IP вручную или выбрать из селектора"
+    },
+    "main_placeholder_7": {
+        "message": "ip:port или ip:port@login:password"
+    },
+    "main_small_1": {
+        "message": "Поддерживается автоопределение формата"
+    },
+    "main_icon_title_1": {
+        "message": "Редактировать прокси"
+    },
+    "main_option_text_1": {
+        "message": "Выбрать прокси"
+    },
+    "main_optional_text_1": {
+        "message": "Получаем прокси..."
+    },
+    "main_optional_text_2": {
+        "message": "Получили прокси"
+    },
+    "main_notification_1": {
+        "message": "Необходимо решить капчу или отключить прокси или VPN"
+    },
+    "main_notification_2": {
+        "message": "Некорректный apiKey"
+    },
+    "main_notification_3": {
+        "message": "Произошла ошибка - необходимо отключить прокси или VPN"
+    },
+    "main_notification_4": {
+        "message": "Некорректные данные прокси"
+    },
+    "list_h_1": {
+        "message": "Список прокси"
+    },
+    "list_button_text_1": {
+        "message": "Удалять повторяющиеся прокси"
+    },
+    "list_button_text_2": {
+        "message": "Удалить все прокси"
+    },
+    "list_table_header_1": {
+        "message": "IP-адрес"
+    },
+    "list_table_header_2": {
+        "message": "Порт"
+    },
+    "list_table_header_3": {
+        "message": "Логин"
+    },
+    "list_table_header_4": {
+        "message": "Пароль"
+    },
+    "list_icon_title_1": {
+        "message": "Удалить прокси"
+    },
+    "list_icon_title_2": {
+        "message": "Выбрать прокси"
+    },
+    "list_hit_1": {
+        "message": "Текущий прокси"
+    },
+    "list_notification_1": {
+        "message": "Удалить выбранный прокси?"
+    },
+    "list_notification_2": {
+        "message": "Включить выбранный прокси?"
+    },
+    "list_notification_3": {
+        "message": "Удалены повторяющиеся прокси"
+    },
+    "list_notification_4": {
+        "message": "Нет повторяющихся прокси :)"
+    },
+    "additional_h_1": {
+        "message": "Белый список сайтов"
+    },
+    "additional_h_2": {
+        "message": "Горячие клавиши"
+    },
+    "additional_button_text_1": {
+        "message": "Сохранить список"
+    },
+    "additional_text_1": {
+        "message": "Открыть настройки"
+    },
+    "additional_text_2": {
+        "message": "Включить прокси"
+    },
+    "additional_text_3": {
+        "message": "Отключить прокси"
+    }
+}
