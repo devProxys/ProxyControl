@@ -2,7 +2,7 @@ body {
   background: rgba(0, 0, 0, 1) url(hash.svg);
   color: white;
   width: 360px;
-  height: 180px;
+  /*height: 180px;*/
   font-family: 'Roboto Slab', sans-serif;
 }
 
