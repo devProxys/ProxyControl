@@ -1,6 +1,6 @@
  {
    "name": "ProxyControl",
-   "version": "1.4",
+   "version": "1.4.1",
    "default_locale": "en",
    "description": "Manage setting of connect of proxy in your browser so quickly and so easily as you want.",
    "permissions": [
